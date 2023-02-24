@@ -1,0 +1,17 @@
+List<String> cities = [
+  'Mumbai',
+  'Delhi',
+  'Bangalore',
+  'Hyderabad',
+  'Chennai',
+  'Kolkata',
+  'Pune',
+  'Ahmedabad',
+  'Jaipur',
+  'Lucknow',
+  'Kanpur',
+  'Nagpur',
+  'Visakhapatnam',
+  'Bhopal',
+  'Patna',
+];
